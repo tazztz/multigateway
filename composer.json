@@ -7,11 +7,11 @@
     ],
     "authors": [
         {
-            "name": "Sharifur Rahman",
-            "email": "dvrobin4@gmail.com"
+            "name": "Mohammad Tazz",
+            "email": "tzatwork@gmail.com"
         }
     ],
-    "homepage": "https://github.com/Sharifur/multigateway",
+    "homepage": "https://github.com/tazztz/multigateway",
     "require": {
         "php": "^7.3",
         "laravel/framework": "^8.0",
