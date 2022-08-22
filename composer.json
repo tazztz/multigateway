@@ -14,7 +14,7 @@
     "homepage": "https://github.com/tazztz/multigateway",
     "require": {
         "php": "^7.3",
-        "laravel/framework": "^8.0",
+        "laravel/framework": "^8.0 | 9.0",
         "stripe/stripe-php": "^7.103",
         "srmklive/paypal": "~3.0",
         "midtrans/midtrans-php": "^2.5",
